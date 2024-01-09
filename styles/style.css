@@ -1,0 +1,11 @@
+.cover{
+    display: flex;
+    background-image: url('https://i.ibb.co/jwD4LLV/technology-background-with-blue-gradient-background-v-1559315jpg-w700wp.webp');
+    padding: 16px;
+}
+.header{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    color: rgb(0, 2, 2);
+}
